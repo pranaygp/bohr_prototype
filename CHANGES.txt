@@ -1,0 +1,20 @@
+Revision history for Neuron
+
+1.0.0 13-08-16
+
+  * First release
+
+2.0.0 14-08-2016
+
+  * Added PouchDB and CouchDB remote replication
+  * Installed pouchdb-find
+  * Added "Open Sans" font family
+
+2.0.2 15-08-2016
+
+  * Added Travis CI
+
+2.0.2 16-08-2016
+
+ * Added logo. Logo design by: https://github.com/Polyducks
+ * Added logo to boilerplate
